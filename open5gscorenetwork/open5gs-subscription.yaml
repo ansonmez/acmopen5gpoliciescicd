@@ -22,3 +22,5 @@ spec:
       value:
         dnn: internet
         advertise: 192.168.51.202
+        upfmain:
+          addr:  192.168.50.200
