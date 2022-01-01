@@ -21,6 +21,6 @@ spec:
     - path: spec
       value:
         dnn: internet
-        advertise: 192.168.51.202
+        advertise: 192.168.133.202
         upfmain:
-          addr:  192.168.50.202
+          addr:  192.168.133.202
